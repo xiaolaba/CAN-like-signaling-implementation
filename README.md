@@ -10,7 +10,7 @@ imitate serial transimission to send string "hello" via such IO lines. 19200 bau
 
 
 ```
-// CAN-like signaling implementation
+// CAN-like signaling implementation, xiaolaba, 2025-09-01
 #define CANH_PIN 7
 #define CANL_PIN 8
 
